@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /*Vh View Height*/
+}
+header {
+  background-color: #273b47;
+}
+section {
+  background-color: tomato;
+  flex: 1;
+}
+
+footer {
+  background-color: #7fc719;
+}
